@@ -69,7 +69,7 @@ export const WEDDING_DATA = {
         {
           id: 'mayra',
           name: 'MAYRA',
-          time: '1:00 PM',
+          time: '2:00 PM',
           date: '25 November 2026',
           dateKey: 'day1',
           description: 'A sacred and heartfelt traditional family blessing ritual filled with maternal love and auspicious gifts.',
@@ -112,7 +112,7 @@ export const WEDDING_DATA = {
         {
           id: 'phere',
           name: 'PHERE',
-          time: '12:00 PM',
+          time: '1:30 PM',
           date: '26 November 2026',
           dateKey: 'day2',
           description: 'The sacred Vedic wedding vows around the holy agni sealing the union of souls for seven lifetimes.',
